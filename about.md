@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am last year PhD student in Machine Learning with expetise in Natural Language Processing. I apply NLP models to Information Retrieval problems such as Ranking and Recommendations. My work usually revolves around model.fit(...). Apart from ML, I read a lot.  
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
